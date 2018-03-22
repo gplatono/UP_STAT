@@ -1,0 +1,38 @@
+﻿OBJECTID,Beat,Section,Section_Num,Supervisor_Name,Note,Color_Code,ShapeSTArea,ShapeSTLength,ID,Office_Address,Office_Phone,Email_Contact,Office_Hours
+1,209,Central,9,Capt. David Smith,In case of emergency call 911.,1,23291389.8708496,31183.6884235184,209,"30 N Clinton Ave, Rochester NY 14604",(585) 428-9809,,9:30am - 5:00pm
+2,219,Central,9,Capt. David Smith,In case of emergency call 911.,2,15925728.0134277,18122.3282282371,219,"30 N Clinton Ave, Rochester NY 14604",(585) 428-9809,,9:30am - 5:00pm
+3,229,Central,9,Capt. David Smith,In case of emergency call 911.,3,16820394.2801514,29216.0964532323,229,"30 N Clinton Ave, Rochester NY 14604",(585) 428-9809,,9:30am - 5:00pm
+4,265,Goodman,5,Capt. Lloyd Cuyler,In case of emergency call 911.,4,31543104.1679688,50157.8206771863,265,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9805,,8:00am - 4:00pm
+5,245,Goodman,5,Capt. Lloyd Cuyler,In case of emergency call 911.,1,27551602.8978271,33437.0037988545,245,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9805,,8:00am - 4:00pm
+6,255,Goodman,5,Capt. Lloyd Cuyler,In case of emergency call 911.,2,44055973.9016113,39199.2606613418,255,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9805,,8:00am - 4:00pm
+7,225,Goodman,5,Capt. Lloyd Cuyler,In case of emergency call 911.,3,20150113.6494141,30403.7781986549,225,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9805,,8:00am - 4:00pm
+8,235,Goodman,5,Capt. Lloyd Cuyler,In case of emergency call 911.,4,52114658.3984375,35255.1883981792,235,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9805,,8:00am - 4:00pm
+9,215,Goodman,5,Capt. Lloyd Cuyler,In case of emergency call 911.,1,14284515.9598389,25724.5607876232,215,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9805,,8:00am - 4:00pm
+10,205,Goodman,5,Capt. Lloyd Cuyler,In case of emergency call 911.,3,69683548.4603271,115641.408370457,205,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9805,,8:00am - 4:00pm
+11,287,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,3,19278371.2332764,18632.2880098756,287,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+12,297,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,4,12302076.9576416,21721.1034658063,297,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+13,277,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,1,16192752.4492188,22813.7473479749,277,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+14,267,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,2,14194943.980835,19110.5846240306,267,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+15,257,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,3,10488788.1013184,16167.1121704059,257,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+16,247,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,2,12375649.4683838,19416.4786279048,247,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+17,217,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,1,11485941.081543,22130.8050756158,217,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+18,237,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,4,18539702.5726318,21630.0632969919,237,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+19,207,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,3,38434342.3122559,82351.5693326272,207,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+20,227,Clinton,7,Capt. John Corbelli,In case of emergency call 911.,2,13357917.06604,16557.3814582156,227,"630 N Clinton Ave, Rochester, NY 14605",(585) 428-9807,,8:00am - 4:00pm
+21,281,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,1,30594653.8590088,30298.7201684205,281,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+22,291,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,2,11036618.7314453,20372.4524640819,291,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+23,261,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,3,12696462.921875,25193.9815065261,261,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+24,271,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,4,12048906.3931885,19816.6265240773,271,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+25,251,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,1,7894075.05737305,12359.2775293053,251,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+26,221,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,3,37045091.0754395,59470.5975658678,221,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+27,211,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,1,57577828.4099121,41070.246911481,211,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+28,231,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,4,17550240.4315186,20171.1034528573,231,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+29,201,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,2,54072567.90979,49347.6154692725,201,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+30,241,Lake,1,Capt. Raymond Dearcop,In case of emergency call 911.,2,49803738.4736328,48954.0380070314,241,"1099 Jay St, Rochester, NY 14611",(585) 428-9801,,8:00am - 4:00pm
+31,203,Genesee,3,Capt. Tony McMullen,In case of emergency call 911.,3,40610521.9853516,28787.5694006931,203,"1099 Jay St, Rochester, NY 14611",(585) 428-9803,,8:00am - 4:00pm
+32,213,Genesee,3,Capt. Tony McMullen,In case of emergency call 911.,4,16908161.7591553,22356.8612408402,213,"1099 Jay St, Rochester, NY 14611",(585) 428-9803,,8:00am - 4:00pm
+33,223,Genesee,3,Capt. Tony McMullen,In case of emergency call 911.,1,17764550.7822266,25985.4936002505,223,"1099 Jay St, Rochester, NY 14611",(585) 428-9803,,8:00am - 4:00pm
+34,233,Genesee,3,Capt. Tony McMullen,In case of emergency call 911.,2,13030365.30896,23209.6170962679,233,"1099 Jay St, Rochester, NY 14611",(585) 428-9803,,8:00am - 4:00pm
+35,253,Genesee,3,Capt. Tony McMullen,In case of emergency call 911.,3,15591992.7081299,21361.104806284,253,"1099 Jay St, Rochester, NY 14611",(585) 428-9803,,8:00am - 4:00pm
+36,243,Genesee,3,Capt. Tony McMullen,In case of emergency call 911.,4,68342896.5712891,59092.0757002523,243,"1099 Jay St, Rochester, NY 14611",(585) 428-9803,,8:00am - 4:00pm
+38,263,Genesee,3,Capt. Tony McMullen,In case of emergency call 911.,1,78226173.3195801,70937.1016386404,263,"1099 Jay St, Rochester, NY 14611",(585) 428-9803,,8:00am - 4:00pm
