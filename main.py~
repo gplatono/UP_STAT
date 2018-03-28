@@ -1,0 +1,31 @@
+import pandas
+from pandas import Series
+import dateutil.parser
+from matplotlib import pyplot
+
+crime_data = pandas.read_csv("datasets/RPD__Part_I_Crime_2011_to_Present.csv")
+#crime_data = crime_data.values
+crime_data['datetime'] = pandas.to_datetime(crime_data.OccurredFrom_Timestamp, format="%Y.%m.%d %H:%M:%S.%f")
+crime_data['day'] = crime_data['datetime'].apply(lambda x: x.day)
+crime_data['weekday'] = crime_data['datetime'].apply(lambda x: x.weekday())
+crime_data['yearday'] = crime_data['datetime'].apply(lambda x: x.timetuple().tm_yday)
+
+#print dateutil.parser.parse(crime_data.OccurredFrom_Timestamp[0]).day
+
+print crime_data.datetime[1], crime_data.OccurredFrom_Timestamp[1], crime_data.datetime[1].year, crime_data['day'][1], crime_data['weekday'][1]
+
+#ser = pandas.Series(crime_data.weekday)
+#print ser
+#pyplot.figure()
+#ser.hist(ser)
+pyplot.hist(crime_data['OccurredFrom_Date_Month'], bins=12, align='mid', histtype='bar')
+#crime_data.hist(column='yearday', bins=365)
+#crime_data.hist(column='OccurredFrom_Date_Month', bins=12)
+#crime_data.plot(kind='hist', use_index=crime_data.columns.get_loc('weekday'), bins=7)
+#pyplot.plot()
+pyplot.show()
+
+
+
+
+
